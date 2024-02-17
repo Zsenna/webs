@@ -1,0 +1,11 @@
+.our-app-wrapper {
+  all: initial;
+}
+
+.our-app-wrapper *:not(img) {
+  all: revert;
+}
+
+.our-app-wrapper p:has(img) {
+  display: flex;
+}

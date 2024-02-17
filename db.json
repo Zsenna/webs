@@ -1,0 +1,194 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Headline Pengumuman",
+      "date": "14 Jan 2024",
+      "subtitle": "Detail Pengumumuman -  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut eleifend risus, quis fermentum felis. Aenean lacinia a leo vel volutpat. Donec eu felis augue. Maecenas mattis at justo imperdiet auctor."
+    },
+    {
+      "id": 2,
+      "title": "Headline Pengumuman",
+      "date": "14 Jan 2024",
+      "subtitle": "Detail Pengumumuman -  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut eleifend risus, quis fermentum felis. Aenean lacinia a leo vel volutpat. Donec eu felis augue. Maecenas mattis at justo imperdiet auctor."
+    },
+    {
+      "id": 3,
+      "title": "Headline Pengumuman",
+      "date": "14 Jan 2024",
+      "subtitle": "Detail Pengumumuman -  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut eleifend risus, quis fermentum felis. Aenean lacinia a leo vel volutpat. Donec eu felis augue. Maecenas mattis at justo imperdiet auctor."
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Grahito Adje Pelatih Futsal SMP Bakti Idhata - Berbagai Tips Di Ekstrakurikuler Futsal",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "imgSrc": "https://i.ibb.co/4PYdXxs/image-15.png",
+      "imgAlt": "Berita 1"
+    },
+    {
+      "id": 2,
+      "title": "Upacara Peringatan HUT ke-77 RI dengan Kegiatan Lomba",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "imgSrc": "https://i.ibb.co/mDrjLmN/image-28.png",
+      "imgAlt": "Berita 2"
+    },
+    {
+      "id": 3,
+      "title": "Masa Pengenalan Lingkungan Sekolah",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "imgSrc": "https://i.ibb.co/2ZL1jCp/image-29.png",
+      "imgAlt": "Berita 3"
+    },
+    {
+      "id": 4,
+      "title": "Latihan Dasar Kepemimpinan Siswa",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "imgSrc": "https://i.ibb.co/hs441rx/image-32.png",
+      "imgAlt": "Berita 4"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Faza Rama Nugraha",
+      "class": "VII A",
+      "NIS": 201420,
+      "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sick": 3,
+      "leave": 2,
+      "absent": 0
+    },
+    {
+      "id": 2,
+      "name": "Muhamad Bagas Prasetio",
+      "class": "VII A",
+      "NIS": 201512,
+      "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sick": 1,
+      "leave": 2,
+      "absent": 0
+    },
+    {
+      "id": 3,
+      "name": "Muhammad Raid",
+      "class": "VII A",
+      "NIS": 201749,
+      "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sick": 6,
+      "leave": 2,
+      "absent": 0
+    },
+    {
+      "id": 4,
+      "name": "Khanza Arrayyan",
+      "class": "VII A",
+      "NIS": 201840,
+      "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sick": 1,
+      "leave": 5,
+      "absent": 0
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Puji Yulianti, M.Pd.",
+      "role": "Kepala Sekolah",
+      "image": "https://i.ibb.co/hHDfWGf/guru1.png"
+    },
+    {
+      "id": 2,
+      "name": "Nama Wakil Kepala Sekolah",
+      "role": "Wakil Kepala Sekolah"
+    },
+    { "id": 3, "name": "Nama Guru", "role": "Guru Bidang" },
+    { "id": 4, "name": "Nama Guru", "role": "Guru Bidang" },
+    { "id": 5, "name": "Nama Guru", "role": "Guru Bidang" },
+    { "id": 6, "name": "Nama Staff", "role": "Staff Bidang" },
+    { "id": 7, "name": "Nama Staff", "role": "Staff Bidang" },
+    { "id": 8, "name": "Nama Staff", "role": "Staff Bidang" }
+  ],
+  "file": [
+    {
+      "id": 1,
+      "name": "document 1",
+      "type": "https://upload.wikimedia.org/wikipedia/commons/f/fb/.docx_icon.svg"
+    },
+    {
+      "id": 2,
+      "name": "document 2",
+      "type": "https://upload.wikimedia.org/wikipedia/commons/f/fb/.docx_icon.svg"
+    }
+  ],
+  "extracurriculer": [
+    {
+      "favorite": [
+        {
+          "id": 1,
+          "name": "teater",
+          "image": "https://i.ibb.co/xCZsSM4/yiran-ding-Tmv-SImv-V7v-A-unsplash-1.png",
+          "imageInModal": "https://i.ibb.co/3BKN5Rf/teater2-1.png",
+          "time": "Sabtu 09.00 - 10.30 WIB",
+          "room": "Ruang Audio Visual",
+          "description": "Mewadahi minat peserta didik dan mengeksplorasi kemampuan dalam akting"
+        }
+      ],
+      "optional": [
+        {
+          "id": 2,
+          "name": "taekwondo",
+          "image": "https://i.ibb.co/8D6NNSt/uriel-soberanes-ngd2uo1ey-Zg-unsplash.png",
+          "imageInModal": "https://i.ibb.co/X8yRHFn/4-1.png",
+          "time": "Senin 14.30 – 16.30 WIB",
+          "room": "Aula YBI",
+          "description": "Ekstrakurikuler Pilihan"
+        },
+        {
+          "id": 3,
+          "name": "al-quran",
+          "image": "https://i.ibb.co/VCq66fv/masjid-pogung-dalangan-wf-Sto-Jnoogw-unsplash.png",
+          "imageInModal": "https://i.ibb.co/X5kTZbV/11-1.png",
+          "time": "Senin 14.30 – 16.30 WIB",
+          "room": "Ruang Kelas",
+          "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est temporibus numquam, ipsam atque quasi corporis."
+        },
+        {
+          "id": 4,
+          "name": "basket",
+          "image": "https://i.ibb.co/FqRTZG7/markus-spiske-o-XS1f0u-ZYV4-unsplash.png",
+          "imageInModal": "https://i.ibb.co/zG4YbZ9/11-2.png",
+          "time": "Hari Jumat 13.00 - 14.30 WIB",
+          "room": "Lapangan Aspal",
+          "description": "Melatih kebugaran tubuh, strategi, dan kekompakan. Prinsip : Disiplin, Tekun, Kerjasama, Solid"
+        },
+        {
+          "id": 5,
+          "name": "english club",
+          "image": "https://i.ibb.co/6m2zLxD/austin-distel-rxp-Th-Owu-Vg-E-unsplash.png",
+          "imageInModal": "https://i.ibb.co/3Bhpvy2/10-1.png",
+          "time": "Jumat 13.00 - 14.30 WIB",
+          "room": "Ruang Kelas",
+          "description": "Ekstrakurikuler pilihan banyak diminati"
+        }
+      ]
+    }
+  ],
+  "picture": [
+    { "id": 1, "src": "https://i.ibb.co/6tKXXbV/foto-gedung-2.jpg" },
+    { "id": 2, "src": "https://i.ibb.co/rGNgCJR/foto-gedung-1.jpg" },
+    {
+      "id": 3,
+      "src": "https://i.ibb.co/hWSfYmk/12-tampak-samping-ged-sekolah.jpg"
+    }
+  ],
+  "gallery": [
+    { "id": 1, "title": "Judul Galeri 1" },
+    { "id": 2, "title": "Judul Galeri 2" },
+    { "id": 3, "title": "Judul Galeri 3" },
+    { "id": 4, "title": "Judul Galeri 4" },
+    { "id": 5, "title": "Judul Galeri 5" },
+    { "id": 6, "title": "Judul Galeri 6" }
+  ]
+}
